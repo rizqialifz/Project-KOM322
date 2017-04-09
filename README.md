@@ -47,3 +47,5 @@ Pada konfigurasi hanya dilakukan pemilihan bahasa yang akan digunakan.
 		
 
 ## Referensi
+
+https://fluxbb.org/docs/v1.4/installing
