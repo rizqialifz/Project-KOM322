@@ -7,6 +7,8 @@ FluxBB adalah aplikasi forum open source. Bercabang dari Mempawah pada tahun 200
 
 
 ## Instalasi
+
+
 #### Software Requirement
 
 	-Install Apache
@@ -20,8 +22,17 @@ FluxBB adalah aplikasi forum open source. Bercabang dari Mempawah pada tahun 200
 	-PostgreSQL 7.0 
 	-SQLite 2.
   
-  #### Cara instalasi
-  
+#### Cara instalasi
+
+1. Unduh arsip ZIP untuk instalasi
+``$ wget https://fluxbb.org/download/releases/1.5.10/fluxxbb-1.5.10.zip``
+
+2. Unzip arsip yang sudah terunduh
+``$ unzip fluxxbb-1.5.10.zip``
+
+3. Pindahkan direktori pagekit ke var/www/html/(direktori sekarang “pagekit”)
+``$ sudo mv . . /var/www/html/``
+
 ## Konfigurasi (opsional)
 
 Pada konfigurasi hanya dilakukan pemilihan bahasa yang akan digunakan.
