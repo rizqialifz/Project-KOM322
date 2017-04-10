@@ -24,7 +24,7 @@ FluxBB adalah aplikasi forum open source. Bercabang dari Mempawah pada tahun 200
   
 #### Cara instalasi
 
-1. Unduh arsip ZIP untuk instalasi
+1. Unduh arsip ZIP untuk instalasi 
 ``$ wget https://fluxbb.org/download/releases/1.5.10/fluxxbb-1.5.10.zip``
 
 2. Unzip arsip yang sudah terunduh
