@@ -45,8 +45,14 @@ Pada konfigurasi hanya dilakukan pemilihan bahasa yang akan digunakan.
 ## Cara Pemakaian
 
 - Register
-	- regis masa ga tau
-	![](http://i.imgur.com/t83crgg.png)
+	- Fungsi ini digunakan untuk mendaftarkan akun baru agar user dapat memposting atau berkomentar di dalam forum. Menu regist ini terdapat di bar menu di sebelah tombol login
+	![](http://i.imgur.com/pxpCa5h.png)
+	- Isilah semua field yang ditanyakan
+	- Setelah semua terisi, klik tombol sign up. Halaman akan di direct menuju halaman utama. Pemberitahuan bahwa akun berhasil dibuat terdapat di bagian atas page
+- Untuk masuk ke dalam akun, klik tombol login yang terdapat di menu bar
+	![](http://i.imgur.com/ZMtFXjz.png)
+	
+- Setelah login, user di direct menuju tampilan utama yaitu index, sebagai berikut
 	
 ## Pembahasan
 
