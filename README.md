@@ -53,6 +53,11 @@ Pada konfigurasi hanya dilakukan pemilihan bahasa yang akan digunakan.
 	![](http://i.imgur.com/ZMtFXjz.png)
 	
 - Setelah login, user di direct menuju tampilan utama yaitu index, sebagai berikut
+
+- Membuat forum baru
+	- Terlihat dari menu index, terdapat text category, dari situ user dapat memilih salah satu, dimisalkan user memilih Test Forum
+	- Untuk membat ruang forum baru, user mengklik tombol “Post new topic” yang terdapat di pojok kanan
+	- Isikan judul yang diinginkan, dan mengisi pembahasan apa yang akan dibahas dalam forum tersebut
 	
 ## Pembahasan
 
