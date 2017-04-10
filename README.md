@@ -46,7 +46,8 @@ Pada konfigurasi hanya dilakukan pemilihan bahasa yang akan digunakan.
 
 - Register
 	- regis masa ga tau
-
+	![](http://i.imgur.com/t83crgg.png)
+	
 ## Pembahasan
 
 - Pendapat tentang aplikasi web ini
