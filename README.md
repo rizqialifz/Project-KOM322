@@ -44,7 +44,8 @@ Pada konfigurasi hanya dilakukan pemilihan bahasa yang akan digunakan.
 
 ## Cara Pemakaian
 
-
+- Register
+	- regis masa ga tau
 
 ## Pembahasan
 
